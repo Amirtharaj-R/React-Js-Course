@@ -1,0 +1,24 @@
+{
+  "tasks": [
+    {
+    "id": 1,
+    "text": "College opening",
+    "day": "june 1th at 9:00am",
+    "reminder": true
+},
+{
+    "id": 2,
+    "text": "Class Starting",
+    "day": "july 2th at 9:30am",
+    "reminder": true
+},
+{
+    "id": 3,
+    "text":"Last working day",
+    "day": "dec 30th at 5:30pm",
+    "reminder": false
+}
+    
+  ]
+
+}
